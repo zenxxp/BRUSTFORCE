@@ -8,6 +8,7 @@ ESCE BRUST FORCE AUTO JADI HENGKER EFBI😰😱
 -Masukan Semua Perintah Ini Di ApK hengker kalian-
 
 $pkg update && pkg upgrade
+
 &pkg install python
 &pkg install git
 &pip install stdiomask
