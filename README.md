@@ -25,7 +25,7 @@ $pip install rich
 
 $pip install mechanize
 
-$git clone https://github.com/zenxxp/BRUSTFORCE
+$git clone https://github.com/zenxxp/ZaenalXD
 
 $cd ZaenalXD
 
