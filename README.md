@@ -28,7 +28,7 @@ Open Source? Yess🤓
 JIKA TERJADI APA² SAYA TIDAK IKUT IKUT YA BANGS
 
 GUNAKAN ESCE DENGAN BIJAK🤲              
-Ada BUG? Benerin Sendiri Jangan manja🗿  
+Ada BUG? Benerin Sendiri🗿              
 
 Sekian Maturnuwun🙏                                     
 #brustforce FB
