@@ -27,7 +27,7 @@ $pip install mechanize
 
 $git clone https://github.com/zenxxp/BRUSTFORCE
 
-$cd ZaenalXD
+$cd BRUSTFORCE
 
 $git pull
 
