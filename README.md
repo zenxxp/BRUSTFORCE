@@ -28,7 +28,7 @@ Open Source? Yess🤓
 JIKA TERJADI APA² SAYA TIDAK IKUT IKUT YA BANGS
 
 GUNAKAN ESCE DENGAN BIJAK🤲              
-saran kartu buat krek : Telkomsel Three Indosat yang lain belum saya coba🗿
+Ada BUG? Benerin Sendiri Jangan manja🗿  
 
-sekian maturnuwun                        
+Sekian Maturnuwun🙏                                     
 #brustforce FB
