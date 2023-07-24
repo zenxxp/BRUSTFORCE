@@ -1,7 +1,5 @@
-# BRUSTFORCE
-AUTO JADI HENGKER FB COY
+Source Code BrustForce Facebook
 
-ESCE BRUST FORCE AUTO JADI HENGKER EFBI😰😱
 
 -ISTALL DULU MODULE NYA NGABS-
 
@@ -17,7 +15,7 @@ $pip install requests
 $pip install rich                        
 $pip install mechanize                   
 $git clone https://github.com/zenxxp/ZaenalXD       
-$cd ZaenalXD                                 
+$cd ZaenalXD                               
 $git pull                               
 $python ZaenalXD.py                     
 
